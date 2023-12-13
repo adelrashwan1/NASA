@@ -464,10 +464,10 @@ direction: rtl;
         }
         .write1{
             display: block;
-            height: 125vh;
+            height: 150vh;
         }
         .write11{
-            height: 136vh;
+            height: 170vh;
         }
             }
             /* 800 */
@@ -549,10 +549,10 @@ direction: rtl;
             }
             .write1{
                 display: block;
-                height: 125vh;
+                height: 160vh;
             }
             .write11{
-                height: 136vh;
+                height: 170vh;
             }
             .write1 h3{
                 font-size: 28px;
@@ -615,7 +615,7 @@ direction: rtl;
                     font-size: 9px;
                 }
                 .write11{
-                    height: 150vh;
+                    height: 170vh;
                 }
             }
             /* 410*/
@@ -627,6 +627,6 @@ direction: rtl;
                     width: 170%;
                 }
                 .write11{
-                    height: 150vh;
+                    height: 170vh;
                 }
             }
