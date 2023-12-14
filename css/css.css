@@ -621,8 +621,11 @@ direction: rtl;
                 .write h6 {
                     font-size: 9px;
                 }
-                .write11{
+                .write1{
                     height: 200vh;
+                }
+                .write11{
+                    height: 230vh;
                 }
             }
             /* 410*/
@@ -634,6 +637,6 @@ direction: rtl;
                     width: 170%;
                 }
                 .write11{
-                    height: 200vh;
+                    height: 230vh;
                 }
             }
