@@ -29,7 +29,7 @@ header{
     z-index: 1;
 }
 .logo img{
-    width: 40px;
+    width: 55px;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -218,6 +218,7 @@ direction: rtl;
 .text1{
     color: aliceblue;
     width: 40%;
+    direction: rtl;
 }
 .text1 h4 {
     font-size: 25px;
@@ -260,7 +261,7 @@ direction: rtl;
 .cnts{
     width: 100%;
     height: 250px;
-    background-color:#090f1e9a;
+    background-color:#111111f2;
     text-align: center;
     padding: 40px;
 }
@@ -291,7 +292,13 @@ direction: rtl;
     -o-transform: scale(1.2);
 }
 .mar{
-    background-color: #1f2f3f;
+    background-color: #141515;
+    height: 40px;
+    font-size: 30px;
+    color: #e2b83b;
+}
+.quee{
+    background-color: #0a0b0b;
     height: 40px;
     font-size: 30px;
     color: #e2b83b;
@@ -467,7 +474,7 @@ direction: rtl;
             height: 150vh;
         }
         .write11{
-            height: 170vh;
+            height: 200vh;
         }
             }
             /* 800 */
@@ -549,10 +556,10 @@ direction: rtl;
             }
             .write1{
                 display: block;
-                height: 160vh;
+                height: 150vh;
             }
             .write11{
-                height: 170vh;
+                height: 200vh;
             }
             .write1 h3{
                 font-size: 28px;
@@ -615,7 +622,7 @@ direction: rtl;
                     font-size: 9px;
                 }
                 .write11{
-                    height: 170vh;
+                    height: 200vh;
                 }
             }
             /* 410*/
@@ -627,6 +634,6 @@ direction: rtl;
                     width: 170%;
                 }
                 .write11{
-                    height: 170vh;
+                    height: 200vh;
                 }
             }
